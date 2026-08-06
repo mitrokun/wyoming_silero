@@ -1,3 +1,5 @@
+## [Silero TTS](https://github.com/snakers4/silero-models) [Wyoming](https://github.com/OHF-Voice/wyoming) Server for Home Assistant
+
 ### Зависимости
 ```
 pip install torch --index-url https://download.pytorch.org/whl/cpu
