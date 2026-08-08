@@ -13,8 +13,8 @@ python3 -m wyoming_silero
 ## [Быстрый старт](https://www.youtube.com/watch?v=HUGh9NhMNjg) с [uv](https://docs.astral.sh/uv/getting-started/installation/) 
 
 ```
-git clone https://github.com/mitrokun/yet_another_tts.git
-cd yet_another_tts  
+git clone https://github.com/mitrokun/wyoming_silero.git
+cd wyoming_silero
 uv run python -m wyoming_silero
 ```
 или можно сохранить кэш внутри рабочего каталога
